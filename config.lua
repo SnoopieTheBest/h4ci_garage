@@ -14,7 +14,7 @@ garagepublic.zone = {
 		ranger = {x = -230.53 , y = -1283.85, z = 31.33}
 	},
 	central = {
-		sortie = { x = 222.185, y = -812.114, z = 30.581},
+		sortie = { x = 232.74, y = -791.78, z = 30.6}, --Pour plus faire sortir le véhicule sur le muret
 		ranger = { x = 223.797, y = -760.415, z = 30.646 }
 	},
 	vinewood = {
